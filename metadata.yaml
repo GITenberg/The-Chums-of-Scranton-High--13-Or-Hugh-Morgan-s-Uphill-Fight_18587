@@ -1,0 +1,25 @@
+_repo: The-Chums-of-Scranton-High--13-Or-Hugh-Morgan-s-Uphill-Fight_18587
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ferguson, Donald
+    gutenberg_agent_id: '4730'
+    url: http://www.gutenberg.org/2009/agents/4730
+description: ''
+gutenberg_issued: '2006-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'High school students -- Juvenile fiction'
+- !lcsh 'Baseball -- Juvenile fiction'
+title: "The Chums of Scranton High\r\nOr, Hugh Morgan's Uphill Fight"
+url: http://www.gutenberg.org/ebooks/18587
